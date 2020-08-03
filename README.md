@@ -1,2 +1,4 @@
 # terminus-font-freebsd
-FreeBSD adapted Terminus font
+Terminus Font converted using vtfontcvt.
+
+Original project by Dimitar Toshkov Zhekov http://terminus-font.sourceforge.net/
